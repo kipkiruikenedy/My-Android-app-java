@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kekule</string>
+    <string name="kenedy_kipkirui">Kenedy Kipkirui</string>
+    <string name="hi_i_am">Hi! I am</string>
+    <string name="a_software_engineer">A Software Engineer</string>
+    <string name="experienced_and_skilled_senior_web_developer_with_over_5_years_of_experience_in_creating_designing_and_implementing_web_applications_and_solutions_proficient_in_a_variety_of_programming_languages_and_frameworks_including_html_css_javascript_java_and_php">experienced and skilled senior web developer with over 5 years of experience in creating, designing, and implementing web applications and solutions. Proficient in a variety of programming languages and frameworks, including HTML, CSS, JavaScript, Java, and PHP</string>
+    <string name="hire_me">Hire Me</string>
+    <string name="open_website">open Website</string>
+</resources>
